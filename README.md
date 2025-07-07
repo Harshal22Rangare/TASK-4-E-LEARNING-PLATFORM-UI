@@ -88,5 +88,12 @@ and a future-ready architecture for customization, this project is both practica
 
 ## OUTPUT:
 
-
+<img width="1879" height="910" alt="Image" src="https://github.com/user-attachments/assets/ae1d1f06-847e-43b0-9802-fdca8c2ed748" />
+<img width="1902" height="1023" alt="Image" src="https://github.com/user-attachments/assets/cba593c0-4e2b-4f2c-b860-fda09cd928b0" />
+<img width="1901" height="1050" alt="Image" src="https://github.com/user-attachments/assets/97529a7e-06e3-4b6d-b1ae-9a559442af76" />
+<img width="1872" height="975" alt="Image" src="https://github.com/user-attachments/assets/c3f1c0b1-ec8e-4922-a2f9-18d4404d85c1" />
+<img width="1844" height="941" alt="Image" src="https://github.com/user-attachments/assets/076cf5f9-26a0-4da2-a60c-88765f2e0cbc" />
+<img width="1886" height="828" alt="Image" src="https://github.com/user-attachments/assets/06775f1d-5bfe-4238-9326-5e60f7c8226e" />
+<img width="1862" height="934" alt="Image" src="https://github.com/user-attachments/assets/29b661cc-d296-48f0-a521-baf1b4c20a24" />
+<img width="1889" height="943" alt="Image" src="https://github.com/user-attachments/assets/c5d4f9cc-cf4d-4f0c-beef-56e3d965e259" />
 
