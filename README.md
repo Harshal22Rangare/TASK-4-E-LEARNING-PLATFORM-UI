@@ -87,5 +87,12 @@ Its blend of functionality and visual appeal ensures an engaging user experience
 and a future-ready architecture for customization, this project is both practical and professionally valuable.
 
 ## OUTPUT:
-![Image](https://github.com/user-attachments/assets/d9a62f1d-5e79-47fa-b16f-353af75633df)
+
+![Image](https://github.com/user-attachments/assets/19632c57-bb96-46f3-8b10-cce602684ec7)
+
+<img width="1879" height="905" alt="Image" src="https://github.com/user-attachments/assets/7ff87c85-cb7b-47aa-aa3d-b34a15a94ede" />
+
+<img width="1889" height="943" alt="Image" src="https://github.com/user-attachments/assets/03462ab5-7f88-48cd-beae-a8429de30b14" />
+
+<img width="1353" height="603" alt="Image" src="https://github.com/user-attachments/assets/b0740913-ef6a-482e-bb8c-86c7d5bf599b" />
 
